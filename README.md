@@ -1,4 +1,7 @@
-# Digital-Logic-Sim
+# Digital-Logic-Sim-MarcikosWebBuild
+
+# WARNING! All content here belongs to SebLague. I do not own anything.
+
 This is a simple digital logic simulator, which I created as part of my video series: [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq).
 
 You can find the latest windows/mac/linux builds over [here](https://sebastian.itch.io/digital-logic-sim).<br>
